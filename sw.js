@@ -1342,7 +1342,7 @@ class P {
   }
 }
 E([{"revision":null,"url":"assets/all-products.component-7451fe87.js"},{"revision":null,"url":"assets/contact-us.component-41661b63.js"},{"revision":null,"url":"assets/error.component-466d129c.js"},{"revision":null,"url":"assets/footer.component-a3118f3f.js"},{"revision":null,"url":"assets/home.component-bf27e3c8.js"},{"revision":null,"url":"assets/index-915201bd.js"},{"revision":null,"url":"assets/index-bad1e35e.css"},{"revision":null,"url":"assets/product-card.component-4e8c513c.js"},{"revision":null,"url":"assets/single-product.component-25c1826a.js"},{"revision":null,"url":"assets/video.component-8fd6e945.js"},{"revision":"59760d95e920a9956148e12ba9082c9b","url":"index.html"},{"revision":"94d4d2145d29fd356e280eb5ec0e0a4a","url":"registerSW.js"},{"revision":"d5f8d8e2cd559ca3adb009856213ce35","url":"pwa-192x192.png"},{"revision":"1d809b42a4d8399ed3c3470aedfbc3e1","url":"pwa-512x512.png"},{"revision":"5fda83fb17aaf391b01b8885ce04f142","url":"manifest.webmanifest"}]);
-const oe = "1", he = [
+const oe = "2", he = [
   "/shamedan/images/background.webp",
   "/shamedan/images/belt.webp",
   "/shamedan/images/curtain-left.webp",
