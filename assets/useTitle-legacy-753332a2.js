@@ -1,0 +1,1 @@
+System.register(["./index-legacy-07ae37ea.js"],(function(e,t){"use strict";var n;return{setters:[e=>{n=e.r}],execute:function(){e("u",((e,t="el-shamedan")=>{n.useEffect((()=>(document.title=e,()=>{document.title=t})))}))}}}));
