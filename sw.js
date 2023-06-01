@@ -1346,7 +1346,7 @@ const ue = "shamedan-static-v12";
 self.addEventListener("install", () => {
   self.skipWaiting(), self.registration.unregister();
 });
-const C = "/el-shamadan", E = (a, e) => `${C}/images/${a}/${e}.webp`, fe = (a, e) => `${C}/locales/${a}/${e}.json`, w = {
+const C = "/shamedan", E = (a, e) => `${C}/images/${a}/${e}.webp`, fe = (a, e) => `${C}/locales/${a}/${e}.json`, w = {
   pages: ["contact", "footer", "header", "home", "products", "giveaway"],
   chars: ["king", "magician", "hero", "joker", "mafia", "diva"],
   folders: ["character", "packet", "bag", "notebook", "mug", "t-shirt"],
